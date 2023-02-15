@@ -1,0 +1,22 @@
+{
+  "name": "yamltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dangerfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonam69/testyml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonam69/testyml/issues"
+  },
+  "homepage": "https://github.com/sonam69/testyml#readme",
+  "dependencies": {
+    "danger": "^11.2.3"
+  }
+}
